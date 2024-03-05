@@ -17,9 +17,14 @@ I graduated in 2020 🎓 and have since focused on developing my skills in the L
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Restful API](https://img.shields.io/badge/-Restful%20API-009688?style=flat-square&logo=restfulapi)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 - 🔭 I'm currently working on my Teknofest projects.
-- 🌱 I'm currently learning Raspberry Pi.
+- 🌱 I'm currently learning how to use Laravel with Raspberry Pi.
 - 👯 I'm looking to collaborate on two projects related to autism and earthquake projects.
 
 ## ⏲ What I'm Doing Now:
