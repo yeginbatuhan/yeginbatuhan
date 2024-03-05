@@ -1,7 +1,4 @@
-### Hi there 👋
-
-[<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![](https://visitor-badge.glitch.me/badge?page_id=SajeebChakraborty)
@@ -25,11 +22,14 @@ I graduated in 2020 🎓 and have since focused on developing my skills in the L
 🌱 I'm currently learning Raspberry Pi.
 👯 I'm looking to collaborate on two projects related to autism and earthquake projects.
 
-⏲ What I'm doing now:
-Working on Teknofest projects 🚀
-Learning Raspberry Pi 📚
-Collaborating on two projects related to autism and earthquakes 🤝
-- 
+## ⏲ What I'm Doing Now:
+
+- 🚀 **Working on Technofest Projects:** Currently focusing on developing innovative projects for Technofest, exploring new ideas and technologies to make a significant impact.
+
+- 📚 **Learning Raspberry Pi:** Diving deep into the world of Raspberry Pi to enhance my skills in hardware and software integration, aiming to build smart, efficient solutions.
+
+- 🤝 **Collaborating on Projects Related to Autism and Earthquakes:** Actively participating in two collaborative projects aimed at making a difference in the areas of autism awareness and earthquake preparedness, leveraging technology to address these critical issues.
+ 
 ## Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yeginbatuhan&count_private=true&show_icons=true&include_all_commits=true&theme=prussian)
