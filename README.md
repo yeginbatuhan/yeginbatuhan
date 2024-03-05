@@ -18,9 +18,9 @@ I graduated in 2020 🎓 and have since focused on developing my skills in the L
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-🔭 I'm currently working on my Teknofest projects.
-🌱 I'm currently learning Raspberry Pi.
-👯 I'm looking to collaborate on two projects related to autism and earthquake projects.
+- 🔭 I'm currently working on my Teknofest projects.
+- 🌱 I'm currently learning Raspberry Pi.
+- 👯 I'm looking to collaborate on two projects related to autism and earthquake projects.
 
 ## ⏲ What I'm Doing Now:
 
