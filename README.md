@@ -3,14 +3,17 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![](https://visitor-badge.glitch.me/badge?page_id=SajeebChakraborty)
 
-I graduated in 2020 🎓 and have since focused on developing my skills in the Laravel framework 🛠️. I enjoy self-improvement and have developed 33 projects to date 💻. I participated in a Kodluyoruz bootcamp 📚 and also served as an assistant 👨‍🏫.
+I graduated in 2020 🎓 and have since honed my skills across multiple frameworks, including Laravel, Django, Vue, and Flutter 🛠️. I'm passionate about continuous self-improvement and have developed 38 projects to date 💻. I participated in a Kodluyoruz bootcamp 📚 and also contributed as an assistant 👨‍🏫, sharing my knowledge and helping others grow.
 
 ## Skills
 
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel)
+![Django](https://img.shields.io/badge/Django-black?logo=django)
+![Flutter](https://img.shields.io/badge/flutter-blue?logo=flutter)
+![Vue.js](https://img.shields.io/badge/Vue.js-yellow?logo=vue.js)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/-Php-black?style=flat-square&logo=Php)
-![Flutter](https://img.shields.io/badge/flutter-blue?logo=flutter)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -21,20 +24,21 @@ I graduated in 2020 🎓 and have since focused on developing my skills in the L
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Restful API](https://img.shields.io/badge/-Restful%20API-009688?style=flat-square&logo=restfulapi)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi)
 
 
-- 🔭 I'm currently working on my Teknofest projects.
-- 🌱 I'm currently learning how to use Laravel with Raspberry Pi.
-- 👯 I'm looking to collaborate on two projects related to autism and earthquake projects.
+- 🔭 I'm currently working on a Teknofest project for 2025 related to fire suppression systems
+- 🌱 I'm currently developing projects using Flutter, Raspberry Pi, and Laravel.
+- 👯 I'm looking to collaborate on innovative projects involving technology for societal impact.
 
 ## ⏲ What I'm Doing Now:
 
-- 🚀 **Working on Technofest Projects:** Currently focusing on developing innovative projects for Technofest, exploring new ideas and technologies to make a significant impact.
+- 🚀 **Preparing for TEKNOFEST 2025:** After ranking in the top 10 in TEKNOFEST 2024, my current focus is on reaching the top 3 in 2025 with innovative fire suppression and emergency response systems.
 
-- 📚 **Learning Raspberry Pi:** Diving deep into the world of Raspberry Pi to enhance my skills in hardware and software integration, aiming to build smart, efficient solutions.
+- 📚 **Expertise in Raspberry Pi:** I’m now specializing in Raspberry Pi, integrating it with software to build smart, efficient solutions for complex projects.
 
-- 🤝 **Collaborating on Projects Related to Autism and Earthquakes:** Actively participating in two collaborative projects aimed at making a difference in the areas of autism awareness and earthquake preparedness, leveraging technology to address these critical issues.
+- 🤝 **Completed Autism and Earthquake Projects:** My previous work in autism awareness and earthquake preparedness ranked in the top 10 of TEKNOFEST 2024. Now, I'm concentrating on developing fire suppression systems for TEKNOFEST 2025.
+
+- 💼 **End-to-End Software Solutions:** I’m also providing companies with comprehensive software solutions, offering expertise in developing full-cycle applications tailored to their needs.
  
 ## Stats
 
